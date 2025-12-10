@@ -1,0 +1,7 @@
+universe: ["AMZN", "TSLA", "GOOG"]
+start_date: "2025-01-01"
+end_date: "2025-12-11"
+holding_period: 1
+transaction_cost_bps: 5
+benchmark: "SPY"
+
